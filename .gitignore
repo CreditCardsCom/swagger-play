@@ -1,0 +1,9 @@
+/target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+project/play-fork-run.sbt
+.sbtserver*
