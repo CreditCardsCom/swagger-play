@@ -6,6 +6,7 @@ This is a module to integrate swagger into [Play Framework](http://www.playframe
 At the time of this writing, support for Play 2.5 was not available in the official
 [swagger-play](https://github.com/swagger-api/swagger-play) repository. This repository
 is a copy of the Play-2.5 folder in pikel's [fork](https://github.com/pikel/swagger-play).
+It was created this way to make it easier to add as a git dependency.
 
 *WARNING:* This repository will be discarded once support is added to the official
 swagger-play repo.
