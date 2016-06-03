@@ -27,7 +27,7 @@ object ApiListingCache {
       cache = Some(swagger)
       cache
     }
-    cache.get.setHost(host)
+
     cache
   }
 }
